@@ -80,8 +80,8 @@ public class ActivityLoaderActivity extends Activity {
 
 		// TODO - Create a base intent for viewing a URL 
 		// (HINT:  second parameter uses parse() from the Uri class)
-		Intent intent = new Intent(Intent.ACTION_SEND,Uri.parse(URL));
-        intent.setType("http");
+		Intent intent = new Intent(Intent.ACTION_VIEW,Uri.parse(URL));
+
 		
 		// TODO - Create a chooser intent, for choosing which Activity
 		// will carry out the baseIntent. Store the Intent in the 
