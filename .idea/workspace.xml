@@ -15,14 +15,18 @@
   <component name="AndroidGradleBuildConfiguration">
     <option name="OFFLINE_MODE" value="true" />
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Unnamed-0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cc263545-f34e-42ba-82b2-81fa686795ac" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/pre-dexed/test/debug/robotium-solo-5.0.1-0ee7c00d67057c26b5e8b82bfc00980966967b74.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/1.10/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IntentsLab.iws" />
@@ -90,7 +94,7 @@
       <file leaf-file-name="import-summary.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/import-summary.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -99,16 +103,25 @@
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
+            <state line="20" column="1" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityLoaderActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ActivityLoaderActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="-0.35185185" vertical-offset="1014" max-vertical-offset="1560">
+            <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="2074">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassLoader.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-18/java/lang/ClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="423" column="0" selection-start="16447" selection-end="16447" vertical-scroll-proportion="-1.2259616" vertical-offset="7191" max-vertical-offset="13617">
               <folding />
             </state>
           </provider>
@@ -117,7 +130,7 @@
       <file leaf-file-name="ExplicitTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ExplicitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="1200">
+            <state line="60" column="0" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1360">
               <folding />
             </state>
           </provider>
@@ -126,7 +139,7 @@
       <file leaf-file-name="ExplicitlyLoadedActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="17" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1020">
+            <state line="59" column="17" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -146,30 +159,6 @@
     <option name="tasksExpandState">
       <map>
         <entry key="" value="true" />
-      </map>
-    </option>
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="IntentsLab" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value=":app" />
-                <option name="path" value="$PROJECT_DIR$/app" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="availableTasks">
@@ -555,9 +544,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="52" />
-    <option name="width" value="1024" />
-    <option name="height" value="692" />
+    <option name="y" value="2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1158" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -585,7 +574,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -601,20 +589,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -623,10 +597,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="IntentsLab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
@@ -636,75 +606,11 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="IntentsLab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intentslab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
@@ -723,10 +629,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="IntentsLab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntentsLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
@@ -751,6 +653,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -769,16 +672,40 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="P:/dropbox/Android_Projects" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0123456789ABCDEF" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="412" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Android Application.app">
+  <component name="RunManager" selected="Android Tests.ImplicitTest">
     <configuration default="false" name="ExplicitTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <option name="TESTING_TYPE" value="2" />
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="course.labs.intentslab.test.ExplicitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImplicitTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="course.labs.intentslab.test.ImplicitTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
@@ -937,13 +864,15 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
       <item index="1" class="java.lang.String" itemvalue="Android Tests.ExplicitTest" />
+      <item index="2" class="java.lang.String" itemvalue="Android Tests.ImplicitTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Android Tests.ExplicitTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.ImplicitTest" />
+        <item index="1" class="java.lang.String" itemvalue="Android Tests.ExplicitTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
@@ -1001,7 +930,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="52" width="1024" height="692" extended-state="6" />
+    <frame x="0" y="2" width="1920" height="1158" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1015,15 +944,15 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32582322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32701895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935324" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24949084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1050,6 +979,97 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ImplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ExplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="17" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ExplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="17" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ExplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ExplicitlyLoadedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="17" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
@@ -1297,7 +1317,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/intentslab/ActivityLoaderActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="-0.35185185" vertical-offset="1014" max-vertical-offset="1560">
+        <state line="78" column="56" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" vertical-offset="789" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/instrumentTest/java/course/labs/intentslab/test/ImplicitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="-0.034729317" vertical-offset="102" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-18/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="0" selection-start="16447" selection-end="16447" vertical-scroll-proportion="-1.2259616" vertical-offset="7191" max-vertical-offset="13617">
           <folding />
         </state>
       </provider>
